@@ -1,0 +1,11 @@
+werkzeug
+flask
+tornado
+numpy
+pandas
+pillow
+pyyaml
+scikit-learn
+scipy
+h5py
+tensorflow
